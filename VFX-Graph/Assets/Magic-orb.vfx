@@ -98,25 +98,13 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614912}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 0}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614914}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614935}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614925}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614927}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614951}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614941}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614937}
